@@ -62,7 +62,7 @@ Airline-Flight-Performance-Analysis/
 
 ## Dashboard Preview
 
-![Airline Flight Performance Dashboard](Screenshots/Dashboard.png)
+![Airline Flight Performance Dashboard](Dashboard.png)
 
 ## Key Skills Demonstrated
 
