@@ -83,3 +83,8 @@ This project is part of my Data Analytics portfolio and is currently being devel
 **Created by:** Data Analytics Portfolio Project
 
 **Tools:** Power BI | DAX | Power Query
+## Download Power BI Dashboard
+
+You can download the complete interactive Power BI dashboard using the link below:
+
+[Download PBIX File](https://drive.google.com/drive/folders/1rGhuFDf-QAebIiKj6ip-54cV31mQ9DoO?usp=sharing)
